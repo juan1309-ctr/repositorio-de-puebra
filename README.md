@@ -2,4 +2,4 @@
 repositorio de prueba
 
 
-Esta es una línea que vamos a modificar.
+Esta es la línea modificada en la rama principal.
